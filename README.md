@@ -1,2 +1,2 @@
 # Radiant-Core
-This is test public repo
+ This repo is holding code for Radiant-Warehouse manangement software. 
